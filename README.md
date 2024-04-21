@@ -76,7 +76,7 @@ This project is an online chat project that can be used on websites to interact 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@attackeralireza](https://github.com/attackeralireza) - Idea & Initial work
+- [@alirezahastam](https://github.com/attackeralireza) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
